@@ -1,0 +1,448 @@
+INFO - 
+--------- Loss ---------
+INFO - Name : bce
+INFO - eta : 2
+INFO - label_smoothing : 0.1
+INFO - label_weighting : False
+INFO - 
+------ Optimizer -----
+INFO - Name : adam
+INFO - lr : 0.0005
+INFO - 
+------ Initializer -----
+INFO - Name : xavier
+INFO - uniform : False
+ERROR - Invalid type for input X. Expected numpy.array or OneToNDatasetAdapter object, got <class 'list'>
+WARNING - Your graph has a large number of distinct entities. Found 708010 distinct entities
+WARNING - Changing the variable initialization strategy.
+WARNING - Changing the strategy to use lazy loading of variables...
+INFO - 
+--------- Loss ---------
+INFO - Name : bce
+INFO - eta : 2
+INFO - label_smoothing : 0.1
+INFO - label_weighting : False
+ERROR - Unsupported optimizer: SGD
+INFO - 
+--------- Loss ---------
+INFO - Name : bce
+INFO - eta : 2
+INFO - label_smoothing : 0.1
+INFO - label_weighting : False
+INFO - 
+------ Optimizer -----
+INFO - Name : sgd
+INFO - lr : 0.0005
+INFO - decay_cycle : 0
+INFO - cosine_decay : False
+INFO - expand_factor : 1
+INFO - decay_lr_rate : 2
+INFO - end_lr : 1e-08
+INFO - 
+------ Initializer -----
+INFO - Name : xavier
+INFO - uniform : False
+WARNING - Your graph has a large number of distinct entities. Found 708010 distinct entities
+WARNING - Changing the variable initialization strategy.
+WARNING - Changing the strategy to use lazy loading of variables...
+INFO - 
+--------- Loss ---------
+INFO - Name : bce
+INFO - eta : 2
+INFO - label_smoothing : 0.1
+INFO - label_weighting : False
+INFO - 
+------ Optimizer -----
+INFO - Name : sgd
+INFO - lr : 0.0005
+INFO - decay_cycle : 0
+INFO - cosine_decay : False
+INFO - expand_factor : 1
+INFO - decay_lr_rate : 2
+INFO - end_lr : 1e-08
+INFO - 
+------ Initializer -----
+INFO - Name : xavier
+INFO - uniform : False
+WARNING - Your graph has a large number of distinct entities. Found 708010 distinct entities
+WARNING - Changing the variable initialization strategy.
+WARNING - Changing the strategy to use lazy loading of variables...
+INFO - 
+--------- Loss ---------
+INFO - Name : bce
+INFO - eta : 2
+INFO - label_smoothing : 0.1
+INFO - label_weighting : False
+INFO - 
+------ Optimizer -----
+INFO - Name : sgd
+INFO - lr : 0.0005
+INFO - decay_cycle : 0
+INFO - cosine_decay : False
+INFO - expand_factor : 1
+INFO - decay_lr_rate : 2
+INFO - end_lr : 1e-08
+INFO - 
+------ Initializer -----
+INFO - Name : xavier
+INFO - uniform : False
+WARNING - Your graph has a large number of distinct entities. Found 708010 distinct entities
+WARNING - Changing the variable initialization strategy.
+WARNING - Changing the strategy to use lazy loading of variables...
+INFO - Unable to determine factor pairs for embedding reshape. Choose a smaller convolution kernel size, or a larger embedding dimension.
+INFO - 
+--------- Loss ---------
+INFO - Name : bce
+INFO - eta : 2
+INFO - label_smoothing : 0.1
+INFO - label_weighting : False
+INFO - 
+------ Optimizer -----
+INFO - Name : sgd
+INFO - lr : 0.0005
+INFO - decay_cycle : 0
+INFO - cosine_decay : False
+INFO - expand_factor : 1
+INFO - decay_lr_rate : 2
+INFO - end_lr : 1e-08
+INFO - 
+------ Initializer -----
+INFO - Name : xavier
+INFO - uniform : False
+INFO - 
+--------- Loss ---------
+INFO - Name : bce
+INFO - eta : 2
+INFO - label_smoothing : 0.1
+INFO - label_weighting : False
+INFO - 
+------ Optimizer -----
+INFO - Name : sgd
+INFO - lr : 0.0005
+INFO - decay_cycle : 0
+INFO - cosine_decay : False
+INFO - expand_factor : 1
+INFO - decay_lr_rate : 2
+INFO - end_lr : 1e-08
+INFO - 
+------ Initializer -----
+INFO - Name : xavier
+INFO - uniform : False
+WARNING - Your graph has a large number of distinct entities. Found 708010 distinct entities
+WARNING - Changing the variable initialization strategy.
+WARNING - Changing the strategy to use lazy loading of variables...
+INFO - 
+--------- Loss ---------
+INFO - Name : bce
+INFO - eta : 2
+INFO - label_smoothing : 0.1
+INFO - label_weighting : False
+INFO - 
+------ Optimizer -----
+INFO - Name : sgd
+INFO - lr : 0.0005
+INFO - decay_cycle : 0
+INFO - cosine_decay : False
+INFO - expand_factor : 1
+INFO - decay_lr_rate : 2
+INFO - end_lr : 1e-08
+INFO - 
+------ Initializer -----
+INFO - Name : xavier
+INFO - uniform : False
+WARNING - Your graph has a large number of distinct entities. Found 708010 distinct entities
+WARNING - Changing the variable initialization strategy.
+WARNING - Changing the strategy to use lazy loading of variables...
+INFO - 
+--------- Loss ---------
+INFO - Name : bce
+INFO - eta : 2
+INFO - label_smoothing : 0.1
+INFO - label_weighting : False
+INFO - 
+------ Optimizer -----
+INFO - Name : sgd
+INFO - lr : 0.0005
+INFO - decay_cycle : 0
+INFO - cosine_decay : False
+INFO - expand_factor : 1
+INFO - decay_lr_rate : 2
+INFO - end_lr : 1e-08
+INFO - 
+------ Initializer -----
+INFO - Name : xavier
+INFO - uniform : False
+WARNING - Your graph has a large number of distinct entities. Found 708010 distinct entities
+WARNING - Changing the variable initialization strategy.
+WARNING - Changing the strategy to use lazy loading of variables...
+INFO - 
+--------- Loss ---------
+INFO - Name : nll
+INFO - eta : 2
+INFO - 
+------ Optimizer -----
+INFO - Name : adam
+INFO - lr : 0.0005
+INFO - 
+------ Initializer -----
+INFO - Name : xavier
+INFO - uniform : False
+WARNING - Your graph has a large number of distinct entities. Found 708010 distinct entities
+WARNING - Changing the variable initialization strategy.
+WARNING - Changing the strategy to use lazy loading of variables...
+INFO - 
+--------- Loss ---------
+INFO - Name : nll
+INFO - eta : 2
+INFO - 
+------ Optimizer -----
+INFO - Name : sgd
+INFO - lr : 0.0005
+INFO - decay_cycle : 0
+INFO - cosine_decay : False
+INFO - expand_factor : 1
+INFO - decay_lr_rate : 2
+INFO - end_lr : 1e-08
+INFO - 
+------ Initializer -----
+INFO - Name : xavier
+INFO - uniform : False
+WARNING - Your graph has a large number of distinct entities. Found 708010 distinct entities
+WARNING - Changing the variable initialization strategy.
+WARNING - Changing the strategy to use lazy loading of variables...
+WARNING - Only 320 embeddings would be loaded in memory per batch...
+INFO - No target relation specified. Using all relations to generate candidate statements.
+INFO - Generating candidates for relation: AUTHOR
+INFO - Generating candidates using entity_frequency strategy.
+INFO - No target relation specified. Using all relations to generate candidate statements.
+INFO - Generating candidates for relation: AUTHOR
+INFO - Generating candidates using entity_frequency strategy.
+WARNING - DeprecationWarning: use_default_protocol will be removed in future. Please use corrupt_side argument instead.
+WARNING - You are attempting to use 708010 distinct entities to generate synthetic negatives in the evaluation
+    protocol. This may be unnecessary and will lead to a 'harder' task. Besides, it will lead to a much slower
+    evaluation procedure. We recommended to set the 'corruption_entities' argument to a reasonably sized set
+    of entities. The size of corruption_entities depends on your domain-specific task.
+WARNING - Your graph has a large number of distinct entities. Found 708010 distinct entities
+WARNING - Changing the variable loading strategy to use lazy loading of variables...
+WARNING - Evaluation would take longer than usual.
+INFO - No target relation specified. Using all relations to generate candidate statements.
+INFO - Generating candidates for relation: AUTHOR
+INFO - Generating candidates using entity_frequency strategy.
+WARNING - DeprecationWarning: use_default_protocol will be removed in future. Please use corrupt_side argument instead.
+WARNING - You are attempting to use 708010 distinct entities to generate synthetic negatives in the evaluation
+    protocol. This may be unnecessary and will lead to a 'harder' task. Besides, it will lead to a much slower
+    evaluation procedure. We recommended to set the 'corruption_entities' argument to a reasonably sized set
+    of entities. The size of corruption_entities depends on your domain-specific task.
+WARNING - Your graph has a large number of distinct entities. Found 708010 distinct entities
+WARNING - Changing the variable loading strategy to use lazy loading of variables...
+WARNING - Evaluation would take longer than usual.
+INFO - Generating candidates for relation: COAUTHOR
+INFO - Generating candidates using entity_frequency strategy.
+WARNING - DeprecationWarning: use_default_protocol will be removed in future. Please use corrupt_side argument instead.
+WARNING - You are attempting to use 708010 distinct entities to generate synthetic negatives in the evaluation
+    protocol. This may be unnecessary and will lead to a 'harder' task. Besides, it will lead to a much slower
+    evaluation procedure. We recommended to set the 'corruption_entities' argument to a reasonably sized set
+    of entities. The size of corruption_entities depends on your domain-specific task.
+WARNING - Your graph has a large number of distinct entities. Found 708010 distinct entities
+WARNING - Changing the variable loading strategy to use lazy loading of variables...
+WARNING - Evaluation would take longer than usual.
+INFO - Generating candidates for relation: REFERENCE
+INFO - Generating candidates using entity_frequency strategy.
+WARNING - DeprecationWarning: use_default_protocol will be removed in future. Please use corrupt_side argument instead.
+WARNING - You are attempting to use 708010 distinct entities to generate synthetic negatives in the evaluation
+    protocol. This may be unnecessary and will lead to a 'harder' task. Besides, it will lead to a much slower
+    evaluation procedure. We recommended to set the 'corruption_entities' argument to a reasonably sized set
+    of entities. The size of corruption_entities depends on your domain-specific task.
+WARNING - Your graph has a large number of distinct entities. Found 708010 distinct entities
+WARNING - Changing the variable loading strategy to use lazy loading of variables...
+WARNING - Evaluation would take longer than usual.
+INFO - Discovered 3 facts
+WARNING - Your graph has a large number of distinct entities. Found 708010 distinct entities
+WARNING - Changing the variable loading strategy to use lazy loading of variables...
+WARNING - Evaluation would take longer than usual.
+WARNING - Your graph has a large number of distinct entities. Found 708010 distinct entities
+WARNING - Changing the variable loading strategy to use lazy loading of variables...
+WARNING - Evaluation would take longer than usual.
+INFO - 
+--------- Loss ---------
+INFO - Name : bce
+INFO - eta : 2
+INFO - label_smoothing : 0.1
+INFO - label_weighting : False
+INFO - 
+------ Optimizer -----
+INFO - Name : sgd
+INFO - lr : 0.0005
+INFO - decay_cycle : 0
+INFO - cosine_decay : False
+INFO - expand_factor : 1
+INFO - decay_lr_rate : 2
+INFO - end_lr : 1e-08
+INFO - 
+------ Initializer -----
+INFO - Name : xavier
+INFO - uniform : False
+WARNING - Your graph has a large number of distinct entities. Found 708010 distinct entities
+WARNING - Changing the variable initialization strategy.
+WARNING - Changing the strategy to use lazy loading of variables...
+INFO - No target relation specified. Using all relations to generate candidate statements.
+INFO - Generating candidates for relation: AUTHOR
+INFO - Generating candidates using entity_frequency strategy.
+WARNING - DeprecationWarning: use_default_protocol will be removed in future. Please use corrupt_side argument instead.
+WARNING - You are attempting to use 708010 distinct entities to generate synthetic negatives in the evaluation
+    protocol. This may be unnecessary and will lead to a 'harder' task. Besides, it will lead to a much slower
+    evaluation procedure. We recommended to set the 'corruption_entities' argument to a reasonably sized set
+    of entities. The size of corruption_entities depends on your domain-specific task.
+INFO - 
+--------- Loss ---------
+INFO - Name : nll
+INFO - eta : 2
+INFO - 
+------ Optimizer -----
+INFO - Name : sgd
+INFO - lr : 0.0005
+INFO - decay_cycle : 0
+INFO - cosine_decay : False
+INFO - expand_factor : 1
+INFO - decay_lr_rate : 2
+INFO - end_lr : 1e-08
+INFO - 
+------ Initializer -----
+INFO - Name : xavier
+INFO - uniform : False
+WARNING - Your graph has a large number of distinct entities. Found 708010 distinct entities
+WARNING - Changing the variable initialization strategy.
+WARNING - Changing the strategy to use lazy loading of variables...
+WARNING - Only 320 embeddings would be loaded in memory per batch...
+INFO - 
+--------- Loss ---------
+INFO - Name : nll
+INFO - eta : 2
+INFO - 
+------ Optimizer -----
+INFO - Name : sgd
+INFO - lr : 0.0005
+INFO - decay_cycle : 0
+INFO - cosine_decay : False
+INFO - expand_factor : 1
+INFO - decay_lr_rate : 2
+INFO - end_lr : 1e-08
+INFO - 
+------ Initializer -----
+INFO - Name : xavier
+INFO - uniform : False
+WARNING - Your graph has a large number of distinct entities. Found 708010 distinct entities
+WARNING - Changing the variable initialization strategy.
+WARNING - Changing the strategy to use lazy loading of variables...
+WARNING - Only 31930 embeddings would be loaded in memory per batch...
+INFO - No target relation specified. Using all relations to generate candidate statements.
+INFO - Generating candidates for relation: AUTHOR
+INFO - Generating candidates using entity_frequency strategy.
+WARNING - DeprecationWarning: use_default_protocol will be removed in future. Please use corrupt_side argument instead.
+WARNING - You are attempting to use 708010 distinct entities to generate synthetic negatives in the evaluation
+    protocol. This may be unnecessary and will lead to a 'harder' task. Besides, it will lead to a much slower
+    evaluation procedure. We recommended to set the 'corruption_entities' argument to a reasonably sized set
+    of entities. The size of corruption_entities depends on your domain-specific task.
+WARNING - Your graph has a large number of distinct entities. Found 708010 distinct entities
+WARNING - Changing the variable loading strategy to use lazy loading of variables...
+WARNING - Evaluation would take longer than usual.
+INFO - Generating candidates for relation: COAUTHOR
+INFO - Generating candidates using entity_frequency strategy.
+WARNING - DeprecationWarning: use_default_protocol will be removed in future. Please use corrupt_side argument instead.
+WARNING - You are attempting to use 708010 distinct entities to generate synthetic negatives in the evaluation
+    protocol. This may be unnecessary and will lead to a 'harder' task. Besides, it will lead to a much slower
+    evaluation procedure. We recommended to set the 'corruption_entities' argument to a reasonably sized set
+    of entities. The size of corruption_entities depends on your domain-specific task.
+WARNING - Your graph has a large number of distinct entities. Found 708010 distinct entities
+WARNING - Changing the variable loading strategy to use lazy loading of variables...
+WARNING - Evaluation would take longer than usual.
+INFO - Generating candidates for relation: REFERENCE
+INFO - Generating candidates using entity_frequency strategy.
+WARNING - DeprecationWarning: use_default_protocol will be removed in future. Please use corrupt_side argument instead.
+WARNING - You are attempting to use 708010 distinct entities to generate synthetic negatives in the evaluation
+    protocol. This may be unnecessary and will lead to a 'harder' task. Besides, it will lead to a much slower
+    evaluation procedure. We recommended to set the 'corruption_entities' argument to a reasonably sized set
+    of entities. The size of corruption_entities depends on your domain-specific task.
+WARNING - Your graph has a large number of distinct entities. Found 708010 distinct entities
+WARNING - Changing the variable loading strategy to use lazy loading of variables...
+WARNING - Evaluation would take longer than usual.
+INFO - Discovered 3 facts
+INFO - No target relation specified. Using all relations to generate candidate statements.
+INFO - Generating candidates for relation: AUTHOR
+INFO - Generating candidates using entity_frequency strategy.
+INFO - No target relation specified. Using all relations to generate candidate statements.
+INFO - Generating candidates for relation: AUTHOR
+INFO - Generating candidates using random_uniform strategy.
+WARNING - DeprecationWarning: use_default_protocol will be removed in future. Please use corrupt_side argument instead.
+WARNING - You are attempting to use 708010 distinct entities to generate synthetic negatives in the evaluation
+    protocol. This may be unnecessary and will lead to a 'harder' task. Besides, it will lead to a much slower
+    evaluation procedure. We recommended to set the 'corruption_entities' argument to a reasonably sized set
+    of entities. The size of corruption_entities depends on your domain-specific task.
+WARNING - Your graph has a large number of distinct entities. Found 708010 distinct entities
+WARNING - Changing the variable loading strategy to use lazy loading of variables...
+WARNING - Evaluation would take longer than usual.
+INFO - Generating candidates for relation: COAUTHOR
+INFO - Generating candidates using random_uniform strategy.
+WARNING - DeprecationWarning: use_default_protocol will be removed in future. Please use corrupt_side argument instead.
+WARNING - You are attempting to use 708010 distinct entities to generate synthetic negatives in the evaluation
+    protocol. This may be unnecessary and will lead to a 'harder' task. Besides, it will lead to a much slower
+    evaluation procedure. We recommended to set the 'corruption_entities' argument to a reasonably sized set
+    of entities. The size of corruption_entities depends on your domain-specific task.
+WARNING - Your graph has a large number of distinct entities. Found 708010 distinct entities
+WARNING - Changing the variable loading strategy to use lazy loading of variables...
+WARNING - Evaluation would take longer than usual.
+INFO - Generating candidates for relation: REFERENCE
+INFO - Generating candidates using random_uniform strategy.
+WARNING - DeprecationWarning: use_default_protocol will be removed in future. Please use corrupt_side argument instead.
+WARNING - You are attempting to use 708010 distinct entities to generate synthetic negatives in the evaluation
+    protocol. This may be unnecessary and will lead to a 'harder' task. Besides, it will lead to a much slower
+    evaluation procedure. We recommended to set the 'corruption_entities' argument to a reasonably sized set
+    of entities. The size of corruption_entities depends on your domain-specific task.
+WARNING - Your graph has a large number of distinct entities. Found 708010 distinct entities
+WARNING - Changing the variable loading strategy to use lazy loading of variables...
+WARNING - Evaluation would take longer than usual.
+INFO - Discovered 3 facts
+INFO - No target relation specified. Using all relations to generate candidate statements.
+INFO - Generating candidates for relation: AUTHOR
+INFO - Generating candidates using random_uniform strategy.
+WARNING - DeprecationWarning: use_default_protocol will be removed in future. Please use corrupt_side argument instead.
+WARNING - You are attempting to use 708010 distinct entities to generate synthetic negatives in the evaluation
+    protocol. This may be unnecessary and will lead to a 'harder' task. Besides, it will lead to a much slower
+    evaluation procedure. We recommended to set the 'corruption_entities' argument to a reasonably sized set
+    of entities. The size of corruption_entities depends on your domain-specific task.
+WARNING - Your graph has a large number of distinct entities. Found 708010 distinct entities
+WARNING - Changing the variable loading strategy to use lazy loading of variables...
+WARNING - Evaluation would take longer than usual.
+INFO - No target relation specified. Using all relations to generate candidate statements.
+INFO - Generating candidates for relation: AUTHOR
+INFO - Generating candidates using random_uniform strategy.
+WARNING - DeprecationWarning: use_default_protocol will be removed in future. Please use corrupt_side argument instead.
+WARNING - You are attempting to use 708010 distinct entities to generate synthetic negatives in the evaluation
+    protocol. This may be unnecessary and will lead to a 'harder' task. Besides, it will lead to a much slower
+    evaluation procedure. We recommended to set the 'corruption_entities' argument to a reasonably sized set
+    of entities. The size of corruption_entities depends on your domain-specific task.
+WARNING - Your graph has a large number of distinct entities. Found 708010 distinct entities
+WARNING - Changing the variable loading strategy to use lazy loading of variables...
+WARNING - Evaluation would take longer than usual.
+INFO - Generating candidates for relation: COAUTHOR
+INFO - Generating candidates using random_uniform strategy.
+WARNING - DeprecationWarning: use_default_protocol will be removed in future. Please use corrupt_side argument instead.
+WARNING - You are attempting to use 708010 distinct entities to generate synthetic negatives in the evaluation
+    protocol. This may be unnecessary and will lead to a 'harder' task. Besides, it will lead to a much slower
+    evaluation procedure. We recommended to set the 'corruption_entities' argument to a reasonably sized set
+    of entities. The size of corruption_entities depends on your domain-specific task.
+WARNING - Your graph has a large number of distinct entities. Found 708010 distinct entities
+WARNING - Changing the variable loading strategy to use lazy loading of variables...
+WARNING - Evaluation would take longer than usual.
+INFO - Generating candidates for relation: REFERENCE
+INFO - Generating candidates using random_uniform strategy.
+WARNING - DeprecationWarning: use_default_protocol will be removed in future. Please use corrupt_side argument instead.
+WARNING - You are attempting to use 708010 distinct entities to generate synthetic negatives in the evaluation
+    protocol. This may be unnecessary and will lead to a 'harder' task. Besides, it will lead to a much slower
+    evaluation procedure. We recommended to set the 'corruption_entities' argument to a reasonably sized set
+    of entities. The size of corruption_entities depends on your domain-specific task.
+WARNING - Your graph has a large number of distinct entities. Found 708010 distinct entities
+WARNING - Changing the variable loading strategy to use lazy loading of variables...
+WARNING - Evaluation would take longer than usual.
+INFO - Discovered 3 facts
+ERROR - Invalid entity type: entities
