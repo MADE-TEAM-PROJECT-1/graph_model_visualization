@@ -96,12 +96,5 @@ class graph_model:
         self.graph.show_buttons(filter_=['physics'])
         self.graph.show(graph_path)
 
-def main():
-    g = graph_model("part_3_clean.json", 100)
-    g.build_graph("56d85787dabfae2eee3492a5",'COAUTHOR', 2)
-    g.save_graph('graphs/test_graph1.html')
-    # 
 
-if __name__ == "__main__":
-    main()
 
