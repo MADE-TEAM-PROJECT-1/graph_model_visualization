@@ -93,6 +93,7 @@ class graph_model:
             self.graph.add_edge(edge[0], edge[1])
 
     def save_graph(self, graph_path: str):
+        self.graph.show_buttons(filter_=['physics'])
         self.graph.show(graph_path)
 
 def main():
